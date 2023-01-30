@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    height: 45vh;
+    color: #ffffff;
+}
+
+.bottom-section-card {
+    text-align: center;
+}
+
+.puri-image {
+    height: 120px;
+    width: 150px;
+    padding: 15px;
+}
+
+.tedx-image {
+    height: 120px;
+    width: 150px;
+    padding: 15px;
+}
+
+.sadhguru-image {
+    height: 120px;
+    width: 150px;
+    padding: 15px;
+}
+
+.onpurpose-image {
+    height: 120px;
+    width: 150px;
+    padding: 15px;
+}
+
+.heading {
+    color: #151765;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.paragraph {
+    color: #5a7184;
+    font-size: 15px;
+}
+
+.puri-podcast-container {
+    background-color: #151765;
+}
+
+.podcast-text-container {
+    padding: 10px;
+}
+
+.main-heading {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.puri-podcast-episodes {
+    background-color: #ffffff;
+}
+
+.button-container {
+    margin: 10px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #141961;
+    font-family: "Roboto";
+    font-weight: 700;
+    border-radius: 15px;
+    border-width: 0px;
+    font-size: 12px;
+    height: 40px;
+    width: 100px;
+}
